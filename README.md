@@ -18,7 +18,7 @@ This project explores how everyday lifestyle factors – including diet type, wo
 
 Using a Kaggle Lifestyle dataset (20,000 workout records plus meal metadata), we:
 
-- Perform exploratory data analysis (EDA) and visualizations
+- Perform exploratory data analysis and visualizations
 - Analyze correlations between lifestyle variables and health/fitness metrics
 - Train a Random Forest classifier to predict calorie burn categories:
   **Low, Medium, High, Very High**
