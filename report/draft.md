@@ -41,6 +41,7 @@ Based on the Random Forest and SHAP analysis, we found that calorie burn is prim
 
 > Calorie burn depends on what you do—not who you are. 
 > Behavioral choices (duration, intensity, consistency) dominate over biology.
+> Mood is not necessarily affected by diet changes.
 
 * Practical Health Advice
 
