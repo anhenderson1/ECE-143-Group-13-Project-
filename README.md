@@ -85,13 +85,14 @@ or manually install the third-party modules listed in this README.
 
 3. Ensure the dataset exists
 
-  Place the following files inside the data/ folder:
-  
-  Final_data.csv
-  
-  meal_metadata.csv
-  
-  (This isan optional file) Life_Style_Data_Cleaned.csv
+ - Place the following files inside the data/ folder:
+
+ - Final_data.csv
+
+ - meal_metadata.csv
+ 
+ -   (This is an optional file) Life_Style_Data_Cleaned.csv
+
 
 4. Run the main program
 ```
