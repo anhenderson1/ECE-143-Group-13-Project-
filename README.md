@@ -27,3 +27,35 @@ Using a Kaggle Lifestyle dataset (20,000 workout records plus meal metadata), we
 The final outcome combines visual storytelling and statistical insights to highlight how data-driven analysis can support healthier lifestyle choices.
 
 ---
+
+# File Structure 
+
+├── data/
+│   ├── Final_data.csv
+│   ├── Life_Style_Data_Cleaned.csv
+│   └── meal_metadata.csv
+│
+├── figures/
+│   ├── SHAP_contributions_by_gender.png
+│   ├── SHAP_summary_bar.png
+│   ├── calories_burned_by_workout_type.png
+│   ├── corr_calorie_intake_and_expenditure.png
+│   ├── corr_matrix_of_key_variables.png
+│   ├── diet_vs_rating_violin_with_trend.png
+│   ├── key_categorical_distributions.png
+│   ├── water_vs_rating_binned.png
+│   ├── water_vs_rating_linear.png
+│   └── workout_intensity_vs_mood_rating.png
+│
+├── notebook/
+│   └── lifestyle_datamining.ipynb
+│
+├── Presentation/
+│   ├── ECE 143 Final Project.pdf
+│   └── draft.md
+│
+├── src/
+│   ├── dataset.py
+│   └── preprocess.py
+│
+└── README.md
