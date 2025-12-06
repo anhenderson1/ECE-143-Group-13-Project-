@@ -29,13 +29,13 @@ The final outcome combines visual storytelling and statistical insights to highl
 ---
 
 # File Structure 
-
-├── data
+.
+├── data/
 │   ├── Final_data.csv
 │   ├── Life_Style_Data_Cleaned.csv
 │   └── meal_metadata.csv
 │
-├── figures
+├── figures/
 │   ├── SHAP_contributions_by_gender.png
 │   ├── SHAP_summary_bar.png
 │   ├── calories_burned_by_workout_type.png
@@ -47,14 +47,16 @@ The final outcome combines visual storytelling and statistical insights to highl
 │   ├── water_vs_rating_linear.png
 │   └── workout_intensity_vs_mood_rating.png
 │
-├── notebook
+├── notebook/
 │   └── lifestyle_datamining.ipynb
 │
-├── Presentation
-│   ├── ECE 143 Final Project.pdf
+├── Presentation/
+│   └── ECE 143 Final Project.pdf
+│
+├── report/
 │   └── draft.md
 │
-├── src
+├── src/
 │   ├── dataset.py
 │   └── preprocess.py
 │
