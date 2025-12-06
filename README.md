@@ -124,21 +124,21 @@ These modules must be installed before running the project:
 
 Data Handling
 
-- pandas
+ - pandas
 
-- numpy
+ - numpy
 
 Machine Learning
 
-- Visualization
+ - Visualization
 
-- matplotlib
+ - matplotlib
 
-seaborn
+ - seaborn
 
 Notebook Interface
 
-jupyter
+ - jupyter
 
 (Optional, depending on your work):
 
