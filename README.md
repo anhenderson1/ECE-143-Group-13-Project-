@@ -101,26 +101,23 @@ python -m src.main
 
 
 This will:
+  - Load and preprocess the dataset
+   
+  - Perform data quality checks
+   
+  - Generate key EDA plots
+   
+  - Train both full and compact Random Forest models
+   
+  - Print accuracy, classification reports, and a sample prediction
 
-   Load and preprocess the dataset
-   
-   Perform data quality checks
-   
-   Generate key EDA plots
-   
-   Train both full and compact Random Forest models
-   
-   Print accuracy, classification reports, and a sample prediction
-
-5. To view all visualizations
-
-   Open the notebook:
+5. To view all visualizations, open the notebook:
    
    jupyter notebook notebook/lifestyle_datamining.ipynb
+
+# Third-Party Modules Used
    
-   Third-Party Modules Used
-   
-   These modules must be installed before running the project:
+These modules must be installed before running the project:
 
 Data Handling
 
