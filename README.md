@@ -56,7 +56,8 @@ The final outcome combines visual storytelling and statistical insights to highl
 │
 ├── src/
 │   ├── dataset.py
-│   └── preprocess.py
+│   ├── preprocess.py
+│   └── lifestyle_datamining.py
 │
 └── README.md
 ```
