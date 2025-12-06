@@ -29,7 +29,7 @@ The final outcome combines visual storytelling and statistical insights to highl
 ---
 
 #File Structure 
----
+
 ├── data/
 │   ├── Final_data.csv
 │   ├── Life_Style_Data_Cleaned.csv
