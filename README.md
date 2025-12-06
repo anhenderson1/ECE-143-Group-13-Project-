@@ -29,6 +29,7 @@ The final outcome combines visual storytelling and statistical insights to highl
 ---
 
 ##File Structure 
+```
 .
 ├── data/
 │   ├── Final_data.csv
@@ -61,3 +62,4 @@ The final outcome combines visual storytelling and statistical insights to highl
 │   └── preprocess.py
 │
 └── README.md
+```
