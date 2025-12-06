@@ -93,7 +93,6 @@ or manually install the third-party modules listed in this README.
 
 4. Run the main program
 ```
-
 python -m src.main
 ```
 
