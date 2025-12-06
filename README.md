@@ -65,7 +65,6 @@ The final outcome combines visual storytelling and statistical insights to highl
 
 1. Clone the repository
 ```
-
 git clone https://github.com/<your-username>/<your-repo>.git
 cd <your-repo>
 ```
