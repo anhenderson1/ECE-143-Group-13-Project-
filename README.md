@@ -50,11 +50,9 @@ The final outcome combines visual storytelling and statistical insights to highl
 ├── notebook/
 │   └── lifestyle_datamining.ipynb
 │
-├── Presentation/
-│   └── ECE 143 Final Project.pdf
-│
-├── report/
+├── Presentation Slides/
 │   └── draft.md
+|   └── ECE 143 Final Project.pdf
 │
 ├── src/
 │   ├── dataset.py
