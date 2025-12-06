@@ -85,13 +85,13 @@ or manually install the third-party modules listed in this README.
 
 3. Ensure the dataset exists
 
-Place the following files inside the data/ folder:
-
-Final_data.csv
-
-meal_metadata.csv
-
-(This isan optional file) Life_Style_Data_Cleaned.csv
+  Place the following files inside the data/ folder:
+  
+  Final_data.csv
+  
+  meal_metadata.csv
+  
+  (This isan optional file) Life_Style_Data_Cleaned.csv
 
 4. Run the main program
 ```
@@ -102,44 +102,41 @@ python -m src.main
 
 This will:
 
-Load and preprocess the dataset
-
-Perform data quality checks
-
-Generate key EDA plots
-
-Train both full and compact Random Forest models
-
-Print accuracy, classification reports, and a sample prediction
+   Load and preprocess the dataset
+   
+   Perform data quality checks
+   
+   Generate key EDA plots
+   
+   Train both full and compact Random Forest models
+   
+   Print accuracy, classification reports, and a sample prediction
 
 5. To view all visualizations
 
-Open the notebook:
-
-jupyter notebook notebook/lifestyle_datamining.ipynb
-
-Third-Party Modules Used
-
-These modules must be installed before running the project:
+   Open the notebook:
+   
+   jupyter notebook notebook/lifestyle_datamining.ipynb
+   
+   Third-Party Modules Used
+   
+   These modules must be installed before running the project:
 
 Data Handling
 
- - pandas
-
- - numpy
+   - pandas
+  
+   - numpy
 
 Machine Learning
 
- - Visualization
-
- - matplotlib
-
- - seaborn
+   - Visualization
+  
+   - matplotlib
+  
+   - seaborn
 
 Notebook Interface
 
- - jupyter
-
-(Optional, depending on your work):
-
-shap (if used for explainability)
+   - jupyter
+   - shap
