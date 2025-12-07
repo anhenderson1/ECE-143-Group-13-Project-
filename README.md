@@ -10,6 +10,9 @@ ECE 143 – Programming for Data Analysis (Fall 2025)
 - Yuzhou Ren (yur004@ucsd.edu)  
 - Huayang Yu (huy016@ucsd.edu)
 
+## Video Link
+https://youtu.be/pZkHSpKVjqA
+
 ---
 
 ## Project Overview
